@@ -1,0 +1,14 @@
+{
+  "name": "test-pnpm",
+  "version": "1.0.0",
+  "description": "## SETUP",
+  "main": "index.js",
+  "dependencies": {},
+  "devDependencies": {},
+  "workspaces": [
+    "with-jest-app",
+    "storybook"
+  ],
+  "author": "",
+  "license": "ISC"
+}
